@@ -1,16 +1,32 @@
-## Hi there 👋
+Hi, I'm Mark Give 👋
 
-<!--
-**markkgvbs/markkgvbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Who am I?
+I'm a Front-End Developer, UI/UX Designer, and Multimedia Creative passionate about building clean, modern, and user-friendly digital experiences. I enjoy transforming ideas into responsive web and mobile interfaces while creating engaging visual content through graphic design, photo editing, and video editing.
 
-Here are some ideas to get you started:
+🚀 What I'm Currently Working On
+- Building responsive web and mobile applications
+- Creating modern UI/UX designs
+- Expanding my front-end development skills
+- Growing my creative portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tools & Technologies
+
+Front-End
+- Flutter
+- HTML
+- CSS
+- JavaScript
+
+Design & Multimedia
+- Figma
+- Canva
+- CapCut
+
+Development
+- Visual Studio Code
+- Git
+- GitHub
+
+📫 Reach Me
+- 📧 markgived@gmail.com
+- 💼 LinkedIn: linkedin.com/in/de-leon-mark-give
