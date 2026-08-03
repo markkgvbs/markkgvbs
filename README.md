@@ -29,4 +29,4 @@ Development
 
 📫 Reach Me
 - 📧 markgived@gmail.com
-- 💼 LinkedIn: linkedin.com/in/de-leon-mark-give
+- 💼 LinkedIn: linkedin.com/in/de-leon-mark-give 
